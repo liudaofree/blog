@@ -1,2 +1,3 @@
-# blog
-record   tech
+# Headline
+
+> An awesome project.
