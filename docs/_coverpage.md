@@ -1,14 +1,9 @@
 <!-- _coverpage.md -->
 
-![logo](_media/icon.svg)
+# berry使用指南 
 
-# docsify <small>3.5</small>
+> 💪berry使用指南，享受生活
 
-> A magical documentation site generator.
+ 记录技术与生活
 
-- Simple and lightweight
-- No statically built html files
-- Multiple themes
-
-[GitHub](https://github.com/docsifyjs/docsify/)
-[Get Started](#docsify)
+[开始使用 Let Go](/README.md)
